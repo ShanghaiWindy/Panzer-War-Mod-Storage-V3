@@ -1160,7 +1160,7 @@ Platform:Android
 ### Android_Vehicle-113
 
 
-Size:3.29MB
+Size:3.52MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-113.modpack?raw=true)
 
@@ -1174,14 +1174,14 @@ Platform:Android
 ### Android_Vehicle-60-TP
 
 
-Size:3.20MB
+Size:3.39MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-60-TP.modpack?raw=true)
 
 ### Android_Vehicle-AE-Phase-I
 
 
-Size:4.01MB
+Size:4.23MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-AE-Phase-I.modpack?raw=true)
 
@@ -1195,14 +1195,14 @@ Platform:Android
 ### Android_Vehicle-AMX30
 
 
-Size:3.19MB
+Size:3.40MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-AMX30.modpack?raw=true)
 
 ### Android_Vehicle-ARL-44
 
 
-Size:3.06MB
+Size:3.26MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-ARL-44.modpack?raw=true)
 
@@ -1230,7 +1230,7 @@ Platform:Android
 ### Android_Vehicle-E-50
 
 
-Size:3.40MB
+Size:3.62MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-E-50.modpack?raw=true)
 
@@ -1244,14 +1244,14 @@ Platform:Android
 ### Android_Vehicle-Fv215b-183
 
 
-Size:4.14MB
+Size:4.28MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-Fv215b-183.modpack?raw=true)
 
 ### Android_Vehicle-FV4005
 
 
-Size:5.14MB
+Size:5.29MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-FV4005.modpack?raw=true)
 
@@ -1279,7 +1279,7 @@ Platform:Android
 ### Android_Vehicle-GP-PzVI_Tiger_P
 
 
-Size:5.73MB
+Size:5.80MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-GP-PzVI_Tiger_P.modpack?raw=true)
 
@@ -1293,7 +1293,7 @@ Platform:Android
 ### Android_Vehicle-GP-Tiger_II
 
 
-Size:3.59MB
+Size:3.93MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-GP-Tiger_II.modpack?raw=true)
 
@@ -1328,14 +1328,14 @@ Platform:Android
 ### Android_Vehicle-IS-7
 
 
-Size:5.21MB
+Size:5.40MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-IS-7.modpack?raw=true)
 
 ### Android_Vehicle-ISU-122S
 
 
-Size:3.32MB
+Size:3.51MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-ISU-122S.modpack?raw=true)
 
@@ -1370,7 +1370,7 @@ Platform:Android
 ### Android_Vehicle-L-Churchill_VII
 
 
-Size:2.04MB
+Size:2.27MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-L-Churchill_VII.modpack?raw=true)
 
@@ -1384,14 +1384,14 @@ Platform:Android
 ### Android_Vehicle-L-E-100
 
 
-Size:2.61MB
+Size:2.83MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-L-E-100.modpack?raw=true)
 
 ### Android_Vehicle-L-E-25
 
 
-Size:1.87MB
+Size:1.98MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-L-E-25.modpack?raw=true)
 
@@ -1531,7 +1531,7 @@ Platform:Android
 ### Android_Vehicle-Leopard-1
 
 
-Size:3.47MB
+Size:3.69MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-Leopard-1.modpack?raw=true)
 
@@ -1545,7 +1545,7 @@ Platform:Android
 ### Android_Vehicle-M48-RPz
 
 
-Size:4.57MB
+Size:4.81MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-M48-RPz.modpack?raw=true)
 
@@ -1559,7 +1559,7 @@ Platform:Android
 ### Android_Vehicle-M6A2E1
 
 
-Size:3.78MB
+Size:3.99MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-M6A2E1.modpack?raw=true)
 
@@ -1603,7 +1603,7 @@ Platform:Android
 ### Android_Vehicle-PzVI_Tiger_P
 
 
-Size:3.11MB
+Size:3.33MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-PzVI_Tiger_P.modpack?raw=true)
 
