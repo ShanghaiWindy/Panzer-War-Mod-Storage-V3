@@ -1790,6 +1790,13 @@ Size:4.51MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-WZ-111-1-FT.modpack?raw=true)
 
+### Android_Voice-GuP-冷泉麻子-Mako
+
+
+Size:5.52MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Voice-GuP-冷泉麻子-Mako.modpack?raw=true)
+
 ### Android_ダージリン
 
 
