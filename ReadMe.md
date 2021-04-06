@@ -1202,7 +1202,7 @@ Platform:Android
 ### Android_Vehicle-ARL-44
 
 
-Size:3.26MB
+Size:3.27MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-ARL-44.modpack?raw=true)
 
@@ -1440,14 +1440,14 @@ Platform:Android
 ### Android_Vehicle-L-M4A3E8_Sherman
 
 
-Size:1.84MB
+Size:2.05MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-L-M4A3E8_Sherman.modpack?raw=true)
 
 ### Android_Vehicle-L-Matilda
 
 
-Size:1.74MB
+Size:1.92MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-L-Matilda.modpack?raw=true)
 
@@ -1510,7 +1510,7 @@ Platform:Android
 ### Android_Vehicle-L-T54E1
 
 
-Size:4.92MB
+Size:5.14MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-L-T54E1.modpack?raw=true)
 
@@ -1626,7 +1626,7 @@ Platform:Android
 ### Android_Vehicle-Sherman_Jumbo
 
 
-Size:4.15MB
+Size:4.35MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-Sherman_Jumbo.modpack?raw=true)
 
@@ -1670,14 +1670,14 @@ Platform:Android
 ### Android_Vehicle-T-10
 
 
-Size:3.18MB
+Size:3.35MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-T-10.modpack?raw=true)
 
 ### Android_Vehicle-T-26
 
 
-Size:3.18MB
+Size:3.36MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-T-26.modpack?raw=true)
 
@@ -1779,7 +1779,7 @@ Platform:Android
 ### Android_Vehicle-VK3601H
 
 
-Size:3.26MB
+Size:3.48MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Vehicle-VK3601H.modpack?raw=true)
 
