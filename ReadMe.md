@@ -600,13 +600,6 @@ Size:2.73MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle_Chi_to_spg_modpack.modpack?raw=true)
 
-### Android_Vehicle_Hellcat_modpack
-
-
-Size:3.24MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/Android_Vehicle_Hellcat_modpack.modpack?raw=true)
-
 ### Android_Vehicle_Ho_Ri_Type1_modpack
 
 
@@ -1026,13 +1019,6 @@ Platform:Windows
 Size:2.76MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle_Chi_to_spg_modpack.modpack?raw=true)
-
-### StandaloneWindows64_Vehicle_Hellcat_modpack
-
-
-Size:3.28MB
-Platform:Windows
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Community/StandaloneWindows64_Vehicle_Hellcat_modpack.modpack?raw=true)
 
 ### StandaloneWindows64_Vehicle_Ho_Ri_Type1_modpack
 
