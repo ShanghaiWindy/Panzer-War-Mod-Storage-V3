@@ -1129,13 +1129,6 @@ Size:5.95MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_KuroMoriMine.modpack?raw=true)
 
-### Android_Lua-MultiFireCanvas
-
-
-Size:0.02MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Lua-MultiFireCanvas.modpack?raw=true)
-
 ### Android_NationalVoicePack
 
 
