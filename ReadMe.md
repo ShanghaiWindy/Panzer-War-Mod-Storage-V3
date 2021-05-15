@@ -1129,12 +1129,26 @@ Size:5.95MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_KuroMoriMine.modpack?raw=true)
 
+### Android_Lua-MultiFireCanvas
+
+
+Size:0.02MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Lua-MultiFireCanvas.modpack?raw=true)
+
 ### Android_NationalVoicePack
 
 
 Size:0.40MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_NationalVoicePack.modpack?raw=true)
+
+### Android_Sound-HD-Gun-Sound
+
+
+Size:1.25MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Sound-HD-Gun-Sound.modpack?raw=true)
 
 ### Android_Vehicle-103C
 
@@ -1789,6 +1803,13 @@ Platform:Android
 Size:5.52MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_Voice-GuP-冷泉麻子-Mako.modpack?raw=true)
+
+### Android_WoTCamouflage
+
+
+Size:14.72MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Nameless/Android_WoTCamouflage.modpack?raw=true)
 
 ### Android_ダージリン
 
