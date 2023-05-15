@@ -2253,6 +2253,34 @@ Size:3.47MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Zero/Android_李云龙语音包.modpack?raw=true)
 
+### iOS_GUP-BCFreedom
+
+NO NEED FOR MORE EXPLANATION
+Size:1.04MB
+Platform:iOS
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Zero/iOS_GUP-BCFreedom.modpack?raw=true)
+
+### iOS_GUP-ContinuationHighSchool
+
+no more description
+Size:1.97MB
+Platform:iOS
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Zero/iOS_GUP-ContinuationHighSchool.modpack?raw=true)
+
+### iOS_WOTVoice
+
+Working Group of ICPW(CHINESE PW COMMUNITY)
+Size:3.70MB
+Platform:iOS
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Zero/iOS_WOTVoice.modpack?raw=true)
+
+### iOS_WTVoicePack
+
+不需多言
+Size:2.58MB
+Platform:iOS
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/Zero/iOS_WTVoicePack.modpack?raw=true)
+
 ## 东海龙王
 
 ### Android_DIY-PK_Pan_Sight
