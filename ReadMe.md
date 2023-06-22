@@ -2309,7 +2309,7 @@ Platform:Android
 ### Android_Xplan
 
 内构使用
-Size:20.57MB
+Size:23.20MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/情绪薫/Android_Xplan.modpack?raw=true)
 
@@ -2333,6 +2333,13 @@ Platform:Android
 Size:35.38MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/情绪薫/Android_重坦组合包.modpack?raw=true)
+
+### StandaloneWindows64_Xplan
+
+内构使用
+Size:18.28MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/情绪薫/StandaloneWindows64_Xplan.modpack?raw=true)
 
 ## 樱花
 
