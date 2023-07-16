@@ -2383,14 +2383,14 @@ Platform:Android
 ### Android_vehicle-Edelweiss
 
 战场女武神Dependecy:XF-战雷音效资源 b2a3fee1-20a1-46c8-b879-0eed38f52368
-Size:17.43MB
+Size:17.91MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/鋁口麻䲵/Android_vehicle-Edelweiss.modpack?raw=true)
 
 ### Android_vehicle-NJU_N-BT42
 
 一只琴魔座驾Dependecy: b2a3fee1-20a1-46c8-b879-0eed38f52368
-Size:15.87MB
+Size:16.01MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/鋁口麻䲵/Android_vehicle-NJU_N-BT42.modpack?raw=true)
 
