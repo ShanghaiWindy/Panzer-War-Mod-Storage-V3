@@ -2109,6 +2109,29 @@ Size:6.23MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/ToolMan-23/Android_Vehicle-克莱斯勒K-GF.modpack?raw=true)
 
+## TopGun
+
+### Android_SU-39
+
+SU-39攻击机，拥有一门GSH30-2机炮与两个23毫米机炮吊舱，携带20发S-13DF温压火箭弹与4发KH-29L。模组由TopGun制作，使用战雷模型。特别鸣谢@开坦克的雪风酱提供的音效与特效技术支持  and @HK416提供贴图修改
+Size:30.28MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/TopGun/Android_SU-39.modpack?raw=true)
+
+### iOS_SU-39
+
+SU-39攻击机，拥有一门GSH30-2机炮与两个23毫米机炮吊舱，携带20发S-13DF温压火箭弹与4发KH-29L。模组由TopGun制作，使用战雷模型。特别鸣谢@开坦克的雪风酱提供的音效与特效技术支持  and @HK416提供贴图修改
+Size:30.83MB
+Platform:iOS
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/TopGun/iOS_SU-39.modpack?raw=true)
+
+### StandaloneWindows64_SU-39
+
+SU-39攻击机，拥有一门GSH30-2机炮与两个23毫米机炮吊舱，携带20发S-13DF温压火箭弹与4发KH-29L。模组由TopGun制作，使用战雷模型。特别鸣谢@开坦克的雪风酱提供的音效与特效技术支持  and @HK416提供贴图修改
+Size:30.58MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/TopGun/StandaloneWindows64_SU-39.modpack?raw=true)
+
 ## Wtf-Wer
 
 ### Android_Vehicle_Amx_50B_modpack 
