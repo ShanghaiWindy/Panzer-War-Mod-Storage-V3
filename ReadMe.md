@@ -2113,24 +2113,45 @@ Platform:Android
 
 ### Android_SU-39
 
-SU-39攻击机，拥有一门GSH30-2机炮与两个23毫米机炮吊舱，携带20发S-13DF温压火箭弹与4发KH-29L。模组由TopGun制作，使用战雷模型。特别鸣谢@开坦克的雪风酱提供的音效与特效技术支持  and @HK416提供贴图修改
-Size:30.28MB
+8.6更新：修复大多数BUG，机动问题目前无法修复。SU-39攻击机，拥有一门GSH30-2机炮与两个23毫米机炮吊舱，携带20发S-13DF温压火箭弹与4发KH-29L。模组由TopGun制作，使用战雷模型。特别鸣谢@开坦克的雪风酱提供的音效与特效技术支持  and @HK416提供贴图修改
+Size:30.29MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/TopGun/Android_SU-39.modpack?raw=true)
 
+### Android_TU-4
+
+核弹机,免费模组，随意转发
+Size:25.31MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/TopGun/Android_TU-4.modpack?raw=true)
+
 ### iOS_SU-39
 
-SU-39攻击机，拥有一门GSH30-2机炮与两个23毫米机炮吊舱，携带20发S-13DF温压火箭弹与4发KH-29L。模组由TopGun制作，使用战雷模型。特别鸣谢@开坦克的雪风酱提供的音效与特效技术支持  and @HK416提供贴图修改
+8.6更新：修复大多数BUG，机动问题目前无法修复。SU-39攻击机，拥有一门GSH30-2机炮与两个23毫米机炮吊舱，携带20发S-13DF温压火箭弹与4发KH-29L。模组由TopGun制作，使用战雷模型。特别鸣谢@开坦克的雪风酱提供的音效与特效技术支持  and @HK416提供贴图修改
 Size:30.83MB
 Platform:iOS
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/TopGun/iOS_SU-39.modpack?raw=true)
 
+### iOS_TU-4
+
+核弹机,免费模组，随意转发
+Size:26.73MB
+Platform:iOS
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/TopGun/iOS_TU-4.modpack?raw=true)
+
 ### StandaloneWindows64_SU-39
 
-SU-39攻击机，拥有一门GSH30-2机炮与两个23毫米机炮吊舱，携带20发S-13DF温压火箭弹与4发KH-29L。模组由TopGun制作，使用战雷模型。特别鸣谢@开坦克的雪风酱提供的音效与特效技术支持  and @HK416提供贴图修改
+8.6更新：修复大多数BUG，机动问题目前无法修复。SU-39攻击机，拥有一门GSH30-2机炮与两个23毫米机炮吊舱，携带20发S-13DF温压火箭弹与4发KH-29L。模组由TopGun制作，使用战雷模型。特别鸣谢@开坦克的雪风酱提供的音效与特效技术支持  and @HK416提供贴图修改
 Size:30.58MB
 Platform:Windows
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/TopGun/StandaloneWindows64_SU-39.modpack?raw=true)
+
+### StandaloneWindows64_TU-4
+
+核弹机,免费模组，随意转发
+Size:25.84MB
+Platform:Windows
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/TopGun/StandaloneWindows64_TU-4.modpack?raw=true)
 
 ## Wtf-Wer
 
