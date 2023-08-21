@@ -594,6 +594,13 @@ Platform:Android
 
 ## LongSail
 
+### Android_vehicle-PWLS-Challenger-MK2-TES
+
+请安装下载器内XF-战雷音效资源以支持此modDependecy:XF-战雷音效资源 b2a3fee1-20a1-46c8-b879-0eed38f52368
+Size:30.78MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/LongSail/Android_vehicle-PWLS-Challenger-MK2-TES.modpack?raw=true)
+
 ### Android_vehicle-PWLS-T-64BV
 
 请安装下载器内XF-战雷音效资源以支持此modDependecy:XF-战雷音效资源 b2a3fee1-20a1-46c8-b879-0eed38f52368
@@ -2434,7 +2441,7 @@ Platform:Android
 ### Android_vehicle-NJU_N-BT42
 
 一只琴魔座驾Dependecy: b2a3fee1-20a1-46c8-b879-0eed38f52368
-Size:16.01MB
+Size:18.98MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/鋁口麻䲵/Android_vehicle-NJU_N-BT42.modpack?raw=true)
 
