@@ -2422,6 +2422,13 @@ Size:14.49MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/樱花/Android_vehicle-Otomatic-SAG.modpack?raw=true)
 
+### Android_vehicle-PUMA_IFV
+
+Dependecy:XF-战雷音效资源 b2a3fee1-20a1-46c8-b879-0eed38f52368
+Size:17.58MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/樱花/Android_vehicle-PUMA_IFV.modpack?raw=true)
+
 ### Android_vehicle-RKW90
 
 Dependecy:XF-战雷音效资源 b2a3fee1-20a1-46c8-b879-0eed38f52368
