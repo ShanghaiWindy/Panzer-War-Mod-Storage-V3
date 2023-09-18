@@ -601,6 +601,13 @@ Size:30.78MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/LongSail/Android_vehicle-PWLS-Challenger-MK2-TES.modpack?raw=true)
 
+### Android_vehicle-PWLS-SU-122-54
+
+PWLS-SU-122-54Dependecy:XF-战雷音效资源 b2a3fee1-20a1-46c8-b879-0eed38f52368
+Size:12.95MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/LongSail/Android_vehicle-PWLS-SU-122-54.modpack?raw=true)
+
 ### Android_vehicle-PWLS-T-64BV
 
 请安装下载器内XF-战雷音效资源以支持此modDependecy:XF-战雷音效资源 b2a3fee1-20a1-46c8-b879-0eed38f52368
