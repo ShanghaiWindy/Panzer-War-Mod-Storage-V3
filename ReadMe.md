@@ -2415,6 +2415,13 @@ Size:17.86MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/樱花/Android_vehicle-Gepard.modpack?raw=true)
 
+### Android_vehicle-K9-VIDAR
+
+Dependecy:XF-战雷音效资源 b2a3fee1-20a1-46c8-b879-0eed38f52368
+Size:18.85MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/樱花/Android_vehicle-K9-VIDAR.modpack?raw=true)
+
 ### Android_vehicle-M53_59
 
 Dependecy:XF-战雷音效资源 b2a3fee1-20a1-46c8-b879-0eed38f52368
