@@ -2450,6 +2450,13 @@ Size:12.67MB
 Platform:Android
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/樱花/Android_vehicle-RKW90.modpack?raw=true)
 
+### Android_vehicle-T-72A
+
+Supports DIY and has shell throwing animationDependecy:XF-战雷音效资源 b2a3fee1-20a1-46c8-b879-0eed38f52368
+Size:20.95MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/樱花/Android_vehicle-T-72A.modpack?raw=true)
+
 ## 鋁口麻䲵
 
 ### Android_vehicle-C45
