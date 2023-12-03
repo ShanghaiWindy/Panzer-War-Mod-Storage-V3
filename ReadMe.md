@@ -629,6 +629,351 @@ Size:38.64MB
 Platform:iOS
 [Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/LongSail/iOS_vehicle-PWLS-T-90A.modpack?raw=true)
 
+## MGI
+
+### Android_Map-MGF-MAP_决定版专用地图-鹰击长空_PW-DE-Only-VastSky
+
+马鸽重工免费MOD，盗卖必究
+Size:19.77MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Map-MGF-MAP_决定版专用地图-鹰击长空_PW-DE-Only-VastSky.modpack?raw=true)
+
+### Android_Map-MGF-MAP_决定版专用地图-黄昏岛_PW-DE-Only-DuskIsland
+
+马鸽重工免费MOD，盗卖必究
+Size:36.49MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Map-MGF-MAP_决定版专用地图-黄昏岛_PW-DE-Only-DuskIsland.modpack?raw=true)
+
+### Android_Vehicle-Gustav
+
+免费mod，版权所有，盗卖必究
+Size:17.69MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-Gustav.modpack?raw=true)
+
+### Android_Vehicle-Karl
+
+nc-2的私人mod，请勿盗用，版权所有，违者必究
+Size:20.68MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-Karl.modpack?raw=true)
+
+### Android_Vehicle-M880
+
+M880为免费mod，版权所有，盗卖必究
+Size:3.93MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-M880.modpack?raw=true)
+
+### Android_Vehicle-MGF-A-8Tiger
+
+免费mod，版权所有，盗卖必究
+Size:4.62MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGF-A-8Tiger.modpack?raw=true)
+
+### Android_Vehicle-MGF-AceCollection
+
+免费mod，版权所有，盗卖必究
+Size:3.89MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGF-AceCollection.modpack?raw=true)
+
+### Android_Vehicle-MGF-Battlefield2142-T-39Bogatyr
+
+
+Size:3.01MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGF-Battlefield2142-T-39Bogatyr.modpack?raw=true)
+
+### Android_Vehicle-MGF-CB吉普车
+
+MGF-CB吉普车
+Size:2.75MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGF-CB吉普车.modpack?raw=true)
+
+### Android_Vehicle-MGF-E-50Free
+
+免费mod
+Size:3.61MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGF-E-50Free.modpack?raw=true)
+
+### Android_Vehicle-MGF-EDI
+
+免费mod，版权所有，盗卖必究
+Size:3.50MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGF-EDI.modpack?raw=true)
+
+### Android_Vehicle-MGF-F15
+
+免费mod，版权所有，盗卖必究
+Size:3.05MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGF-F15.modpack?raw=true)
+
+### Android_Vehicle-MGF-KV44
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:4.79MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGF-KV44.modpack?raw=true)
+
+### Android_Vehicle-MGF-Lorraine40t
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:2.51MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGF-Lorraine40t.modpack?raw=true)
+
+### Android_Vehicle-MGF-M48A1
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:2.77MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGF-M48A1.modpack?raw=true)
+
+### Android_Vehicle-MGF-MK-15
+
+免费mod，版权所有，盗卖必究
+Size:2.41MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGF-MK-15.modpack?raw=true)
+
+### Android_Vehicle-MGF-Pickup
+
+免费mod，版权所有，盗卖必究
+Size:3.74MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGF-Pickup.modpack?raw=true)
+
+### Android_Vehicle-MGF-T-64
+
+免费mod，版权所有，盗卖必究
+Size:4.35MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGF-T-64.modpack?raw=true)
+
+### Android_Vehicle-MGF-T110E3
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:2.15MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGF-T110E3.modpack?raw=true)
+
+### Android_Vehicle-MGF-UAZ-8
+
+免费mod，版权所有，盗卖必究
+Size:2.11MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGF-UAZ-8.modpack?raw=true)
+
+### Android_Vehicle-MGF-VK1602
+
+免费mod，版权所有，盗卖必究
+Size:3.09MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGF-VK1602.modpack?raw=true)
+
+### Android_Vehicle-MGF-南达科他级战列舰
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:5.94MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGF-南达科他级战列舰.modpack?raw=true)
+
+### Android_Vehicle-MGF-正当防卫4军用越野车
+
+免费mod，版权所有，盗卖必究
+Size:3.16MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGF-正当防卫4军用越野车.modpack?raw=true)
+
+### Android_Vehicle-MGF-特斯拉皮卡
+
+免费mod，版权所有，盗卖必究
+Size:3.87MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGF-特斯拉皮卡.modpack?raw=true)
+
+### Android_Vehicle-MGFWOT-M41
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:3.58MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGFWOT-M41.modpack?raw=true)
+
+### Android_Vehicle-MGFWOT-Object277
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:7.25MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGFWOT-Object277.modpack?raw=true)
+
+### Android_Vehicle-MGFWOT-T-34-2G
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:3.34MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGFWOT-T-34-2G.modpack?raw=true)
+
+### Android_Vehicle-MGFWOT-Type58
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:3.07MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGFWOT-Type58.modpack?raw=true)
+
+### Android_Vehicle-MGFWOT-Type62
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:3.64MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGFWOT-Type62.modpack?raw=true)
+
+### Android_Vehicle-MGFWOT-Type64
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:3.70MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGFWOT-Type64.modpack?raw=true)
+
+### Android_Vehicle-MGL-Air2
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:3.39MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGL-Air2.modpack?raw=true)
+
+### Android_Vehicle-MGL-Challenger2
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:12.78MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGL-Challenger2.modpack?raw=true)
+
+### Android_Vehicle-MGL-Flak41
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:8.35MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGL-Flak41.modpack?raw=true)
+
+### Android_Vehicle-MGL-M60A1
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:7.56MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGL-M60A1.modpack?raw=true)
+
+### Android_Vehicle-MGL-MRLS
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:3.45MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGL-MRLS.modpack?raw=true)
+
+### Android_Vehicle-MGL-Object279LCB
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:10.02MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGL-Object279LCB.modpack?raw=true)
+
+### Android_Vehicle-MGL-Phoenix
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:4.35MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGL-Phoenix.modpack?raw=true)
+
+### Android_Vehicle-MGL-StruTiger
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:3.73MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGL-StruTiger.modpack?raw=true)
+
+### Android_Vehicle-MGL-T470
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:7.29MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGL-T470.modpack?raw=true)
+
+### Android_Vehicle-MGL-天启
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:5.91MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGL-天启.modpack?raw=true)
+
+### Android_Vehicle-MGL-幻影坦克
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:6.51MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGL-幻影坦克.modpack?raw=true)
+
+### Android_Vehicle-MGLWT-IS-4
+
+安卓正版游戏可以在官网 https://www.waroftanks.cn/ 免费下载，还可以联机，有条件的可以去steam购买正版游戏：战争号角，附送装甲纷争，画质好得多，请自觉抵制盗版（正版玩家请无视）
+Size:6.01MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-MGLWT-IS-4.modpack?raw=true)
+
+### Android_Vehicle-P1000
+
+免费p1000mod
+Size:2.33MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-P1000.modpack?raw=true)
+
+### Android_Vehicle-PL01
+
+
+Size:5.08MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-PL01.modpack?raw=true)
+
+### Android_Vehicle-STR9040
+
+免费mod
+Size:2.03MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-STR9040.modpack?raw=true)
+
+### Android_Vehicle-Toooog
+
+
+Size:1.94MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-Toooog.modpack?raw=true)
+
+### Android_Vehicle-UR1MIS
+
+UR1MIS免费mod
+Size:2.99MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-UR1MIS.modpack?raw=true)
+
+### Android_Vehicle-喀秋莎多管火箭炮
+
+喀秋莎多管火箭炮，免费mod
+Size:2.86MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Vehicle-喀秋莎多管火箭炮.modpack?raw=true)
+
+### Android_VehicleMGF-战地2142直升机
+
+免费mod，版权所有，盗卖必究
+Size:2.52MB
+Platform:Android
+[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_VehicleMGF-战地2142直升机.modpack?raw=true)
+
 ## Nameless
 
 ### Android_Vehicle-103C
