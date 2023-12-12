@@ -631,20 +631,6 @@ Platform:iOS
 
 ## MGI
 
-### Android_Map-MGF-MAP_决定版专用地图-鹰击长空_PW-DE-Only-VastSky
-
-马鸽重工免费MOD，盗卖必究
-Size:19.77MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Map-MGF-MAP_决定版专用地图-鹰击长空_PW-DE-Only-VastSky.modpack?raw=true)
-
-### Android_Map-MGF-MAP_决定版专用地图-黄昏岛_PW-DE-Only-DuskIsland
-
-马鸽重工免费MOD，盗卖必究
-Size:36.49MB
-Platform:Android
-[Click To Download](https://github.com/Doreamonsky/Panzer-War-Mod-Storage/blob/master/MGI/Android_Map-MGF-MAP_决定版专用地图-黄昏岛_PW-DE-Only-DuskIsland.modpack?raw=true)
-
 ### Android_Vehicle-Gustav
 
 免费mod，版权所有，盗卖必究
